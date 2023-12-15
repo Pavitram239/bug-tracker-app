@@ -1,0 +1,9 @@
+th,
+td {
+  text-align: center;
+}
+
+.bug-table {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
